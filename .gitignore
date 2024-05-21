@@ -1,0 +1,4 @@
+.env
+skeets.json
+images/*
+!images/.gitkeep
